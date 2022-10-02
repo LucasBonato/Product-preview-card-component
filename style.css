@@ -34,7 +34,7 @@ div.card {
     height: 580px;
 }
 
-img#perfum {
+img#mobile {
     width: 100%;
     border-radius: 15px 15px 0 0;
 }
@@ -97,6 +97,7 @@ button p {
 
 }
 
+img#desktop {display: none;}
 
 .attribution { font-size: 11px; text-align: center; margin-top: 5%;}
 .attribution a { color: hsl(228, 45%, 44%); }
